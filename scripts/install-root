@@ -25,7 +25,7 @@ sudo rm -r /sdcard/Box64Droid &>/dev/null
 sudo rm -r ~/ubuntu &>/dev/null
 echo -e " Downloading preconfigured rootfs..."
 echo -e ""
-wget -q --show-progress https://githttps://github.com/kryptous/Box64Droid/releases/download/beta/box64droid-rootfs-beta.tar.xz 
+wget -q --show-progress https://github.com/kryptous/Box64Droid/releases/download/beta/box64droid-rootfs-beta.tar.xz 
 echo -e ""
 echo -e " Unpacking rootfs, please wait..."
 sudo mkdir ~/ubuntu &>/dev/null
